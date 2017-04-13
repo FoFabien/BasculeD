@@ -1,0 +1,7 @@
+V3 3
+FL //narrhavas/fforest/tp_numerique/BasculeD/vhdl.vhd 2009/10/13.11:43:35 I.34
+EN work/bascule 1255422942         FL //narrhavas/fforest/tp_numerique/BasculeD/vhdl.vhd \
+      PB ieee/std_logic_1164 1155947332 PH ieee/NUMERIC_STD 1155947343 \
+      PB ieee/STD_LOGIC_UNSIGNED 1155947338
+AR work/bascule/test 1255422943    FL //narrhavas/fforest/tp_numerique/BasculeD/vhdl.vhd \
+      EN work/bascule 1255422942

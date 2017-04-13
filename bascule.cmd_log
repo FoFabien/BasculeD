@@ -1,0 +1,3 @@
+xst -ise "H:/tp_numerique/BasculeD/BasculeD.ise" -intstyle ise -ifn bascule.xst -ofn bascule.syr
+xst -ise "H:/tp_numerique/BasculeD/BasculeD.ise" -intstyle ise -ifn bascule.xst -ofn bascule.syr
+xst -ise "H:/tp_numerique/BasculeD/BasculeD.ise" -intstyle ise -ifn bascule.xst -ofn bascule.syr
